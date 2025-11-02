@@ -78,12 +78,14 @@ This hybrid approach ensures that WAF-X can **detect both rule-based and behavio
 ## 🔍 Example HTTP Requests  
 
 ### ✅ Safe Requests  
-**Homepage**
-```http
+
+**1. Homepage**
+```
 GET / HTTP/1.1
 Host: www.example.com
+```
 
-**2.Product listing**
+**2. Product listing**
 ```
 GET /products?category=electronics&page=2 HTTP/1.1
 Host: www.ecommerce.com
