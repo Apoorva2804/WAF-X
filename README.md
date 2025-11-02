@@ -45,20 +45,21 @@ This hybrid approach ensures that WAF-X can **detect both rule-based and behavio
 
 ## 🖥️ Output Screenshots  
 
+<p align="center">Screenshot 1: WAF-X Overview</p>
 <p align="center">
   <img src="./output-screenshots/waf-ss1.png" width="400"/>
-  <img src="./output-screenshots/waf-ss2.png" width="400"/>
 </p>
 
+<p align="center">Screenshot 2: WAF-X Dashboard</p>
 <p align="center">
   <img src="./output-screenshots/waf-ss3.png" width="400"/>
-  <img src="./output-screenshots/waf-ss4.png" width="400"/>
 </p>
 
+<p align="center">Screenshot 3: WAF-X Traffic Analysis</p>
 <p align="center">
   <img src="./output-screenshots/waf-ss5.png" width="400"/>
-  <img src="./output-screenshots/waf-ss6.png" width="400"/>
 </p>
+
 
 ---
 
